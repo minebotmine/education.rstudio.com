@@ -20,3 +20,5 @@ random  text
 thumbnail - 400x400
 
 wide - 1300x300
+
+test
